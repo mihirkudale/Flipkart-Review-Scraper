@@ -1,4 +1,4 @@
-# ReviewFlip: Flipkart Product Review Scraper
+# Flipkart Product Review Scraper
 
 
 
